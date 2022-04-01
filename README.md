@@ -1,2 +1,3 @@
 # Vezbanje
-Vezbanje Githaba
+Vezbanje Githaba.
+Ово је мој први комит
